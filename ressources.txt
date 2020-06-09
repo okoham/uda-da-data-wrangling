@@ -1,0 +1,9 @@
+https://wiki.openstreetmap.org/wiki/Main_Page
+https://wiki.openstreetmap.org/wiki/OpenGeoDB
+https://de.wikipedia.org/wiki/Rügen
+https://www.openstreetmap.org/relation/1434381
+https://overpass-api.de/api/map?bbox=13.0943,54.2123,13.7769,54.6945
+https://www.sqlitetutorial.net/
+https://sqlite.org/index.html
+https://stackoverflow.com/questions/1237068/how-to-pivot-in-sqlite-or-i-e-select-in-wide-format-a-table-stored-in-long-form
+https://docs.python.org/3/library/index.html
